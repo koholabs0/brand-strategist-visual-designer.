@@ -1,0 +1,345 @@
+
+
+# 🔗 MASTER DESIGN CHAIN
+
+```
+Brand Strategy
+   ↓
+Logo System
+   ↓
+UI Design System
+   ↓
+Landing Page Visuals
+   ↓
+Social Media Templates
+```
+
+Each layer **inherits the same Brand DNA**.
+
+No visual resets.
+No stylistic drift.
+
+---
+
+# 🧬 SHARED INPUT — BRAND DNA OBJECT
+
+All design prompts MUST reference:
+
+* Brand name
+* Brand personality
+* Color palette
+* Typography direction
+* Shape language
+* Visual style
+* Emotional tone
+
+This prevents inconsistency.
+
+---
+
+# 🎨 UI DESIGN PROMPT CHAINING
+
+## 🔹 UI CHAIN PURPOSE
+
+Convert branding into **usable interface design** for:
+
+* Mobile apps
+* Web apps
+* Dashboards
+* MVPs
+
+UI must feel like a natural extension of the brand — not generic UI kits.
+
+---
+
+## 🔹 UI STEP 1 — UI STRATEGY EXTRACTION
+
+Extract:
+
+* Platform (mobile / web / dashboard)
+* Product type (SaaS, social app, fintech, marketplace, creator tool)
+* Primary user action
+* Tone (fast, calm, playful, premium)
+* UI density (minimal / rich)
+
+---
+
+## 🔹 UI STEP 2 — UI STYLE DEFINITION
+
+Define:
+
+* Component roundness (small / medium / large radius)
+* Button style (solid / outline / soft)
+* Card usage
+* Shadow usage (none / subtle)
+* Motion style (snappy / smooth)
+
+This becomes the **UI personality**.
+
+---
+
+## 🔹 UI IMAGE MODEL PROMPT TEMPLATE
+
+```
+Design a modern UI screen for a product called “[Brand Name]”.
+
+Product type: [app / SaaS / platform]
+Platform: [mobile / web]
+
+Brand personality: [keywords]
+Visual style: [minimal / bold / playful / futuristic]
+
+Color usage:
+- Primary brand color: [HEX]
+- Secondary colors: [HEX]
+- Neutral background
+
+UI requirements:
+- clean layout
+- strong hierarchy
+- modern spacing
+- rounded components based on brand shape language
+- accessible contrast
+- professional product design
+
+Screen purpose:
+- [e.g. onboarding, home feed, dashboard, pricing page]
+
+Avoid:
+- clutter
+- generic UI kits
+- stock illustrations
+- excessive gradients
+```
+
+---
+
+## 🔹 UI REFINEMENT PROMPTS
+
+Examples:
+
+```
+Simplify the layout and improve hierarchy.
+```
+
+```
+Make this UI feel more premium and spacious.
+```
+
+```
+Increase focus on the primary call-to-action.
+```
+
+```
+Optimize for mobile usability and thumb reach.
+```
+
+---
+
+# 🌐 LANDING PAGE VISUAL PROMPT CHAINING
+
+## 🔹 LANDING PAGE PURPOSE
+
+Landing pages must:
+
+* Communicate trust instantly
+* Match brand emotion
+* Drive one core action
+
+Design before copy.
+
+---
+
+## 🔹 LANDING PAGE STRUCTURE MODEL
+
+Each landing page visual must follow:
+
+1. Hero section
+2. Value proposition
+3. Feature highlights
+4. Social proof
+5. Call-to-action
+
+---
+
+## 🔹 LANDING PAGE IMAGE PROMPT TEMPLATE
+
+```
+Design a high-conversion landing page visual for a brand called “[Brand Name]”.
+
+Industry: [industry]
+Audience: [target user]
+
+Brand style:
+- [branding style]
+- [shape language]
+- [emotional tone]
+
+Color palette:
+- Primary: [HEX]
+- Accent: [HEX]
+- Neutral background
+
+Layout requirements:
+- strong hero section
+- clear headline space
+- modern SaaS layout
+- clean spacing
+- conversion-focused design
+
+Visual direction:
+- minimal but expressive
+- modern startup aesthetic
+- clear content hierarchy
+
+Avoid:
+- stock photos
+- cluttered layouts
+- generic templates
+```
+
+---
+
+## 🔹 LANDING PAGE VARIANTS
+
+Generate variants for:
+
+* Light version
+* Dark version
+* Minimal version
+* Bold/high-energy version
+
+Used for A/B testing visuals.
+
+---
+
+# 📱 SOCIAL MEDIA TEMPLATE PROMPT CHAINING
+
+## 🔹 SOCIAL SYSTEM PURPOSE
+
+Create reusable, branded templates for:
+
+* Instagram
+* Twitter/X
+* LinkedIn
+* TikTok covers
+* Creator announcements
+
+Templates must feel **instantly recognizable**.
+
+---
+
+## 🔹 SOCIAL TEMPLATE TYPES
+
+KohoLabs supports:
+
+* Announcement post
+* Quote post
+* Feature highlight
+* Carousel slide
+* Creator spotlight
+* Launch countdown
+
+---
+
+## 🔹 SOCIAL TEMPLATE PROMPT TEMPLATE
+
+```
+Design a social media post template for a brand called “[Brand Name]”.
+
+Platform: [Instagram / X / LinkedIn]
+Post type: [announcement / quote / feature]
+
+Brand personality: [keywords]
+Visual style: [bold / minimal / playful / premium]
+
+Color palette:
+- Primary: [HEX]
+- Accent: [HEX]
+- Neutral background
+
+Design requirements:
+- clear typography hierarchy
+- strong brand presence
+- reusable layout
+- modern spacing
+- high contrast for readability
+
+Content placeholders:
+- headline text
+- subtext
+- optional icon or shape element
+
+Avoid:
+- clutter
+- over-decoration
+- stock photography
+```
+
+---
+
+## 🔹 SOCIAL TEMPLATE REFINEMENT PROMPTS
+
+```
+Make this template more scroll-stopping.
+```
+
+```
+Increase brand visibility without overcrowding.
+```
+
+```
+Optimize for fast reading on mobile.
+```
+
+```
+Make this feel more creator-native.
+```
+
+---
+
+# 🧠 KOHO LABS DESIGN RULE (GLOBAL)
+
+Every design must pass:
+
+* Can it scale?
+* Can it repeat?
+* Can it be recognized without the logo?
+* Does it feel native to digital platforms?
+
+If not — iterate.
+
+---
+
+# 🚀 WHAT YOU NOW HAVE
+
+You’ve just built:
+
+✅ Brand strategy engine
+✅ Logo generation system
+✅ UI design prompt chain
+✅ Landing page visual generator
+✅ Social media template engine
+
+This is no longer “prompting”.
+
+This is a **design operating system**.
+
+---
+
+## 🔥 NEXT OPTIONAL EXTENSIONS
+
+If you want next, I can add:
+
+* ⚙️ **Brand → Website auto-builder logic**
+* 🧠 **Creator brand kits generator**
+* 📦 **KohoLabs Brand OS dashboard schema**
+* 🧪 **A/B visual testing prompts**
+* 🤖 **Multi-agent design workflow**
+* 📈 **Growth visuals system (ads, hooks, thumbnails)**
+
+Just say:
+
+> **“Add the next layer.”**
+
+You’re building something dangerous now 😤🔥
